@@ -1,0 +1,14 @@
+# Compiled python files
+*.pyc
+
+# Vendor autloader files
+vendor/
+
+# Environment variable files
+.env
+
+# Node modules
+node_modules/
+
+# Cache folder
+cache/
