@@ -1,0 +1,19 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "An Old Hope Classic",
+    "git.enableSmartCommit": true,
+    "editor.minimap.enabled": false,
+    "editor.cursorBlinking": "solid",
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 150,
+    "explorer.confirmDragAndDrop": false,
+    "window.zoomLevel": 0,
+    "git.autofetch": true,
+    "files.autoSave": "off",
+    "workbench.iconTheme": "material-icon-theme",
+    "phpserver.browser": "firefox",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "explorer.openEditors.visible": 0,
+    "extensions.showRecommendationsOnlyOnDemand": true,
+    "window.titleBarStyle": "native"
+}
