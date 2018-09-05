@@ -1,7 +1,7 @@
 # Compiled python files
 *.pyc
 
-# Vendor autloader files
+# Vendor autoloader files
 vendor/
 
 # Environment variable files
