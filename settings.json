@@ -1,0 +1,49 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Plastic",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "telemetry.enableTelemetry": false,
+    "kite.showWelcomeNotificationOnStartup": false,
+    "editor.fontSize": 16,
+    "git.untrackedChanges": "separate",
+    "editor.scrollBeyondLastLine": false,
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/*.code-search": true,
+        "**/vendor": true
+    },
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/**": true,
+        "**/vendor/**": true
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/__pycache__": true,
+        "**/.cache": true,
+        "**/.pytest_cache": true,
+        "**/.vscode": true,
+        "**/node_modules": true,
+        "**/vendor": true
+    },
+    "window.titleBarStyle": "custom",
+    "extensions.showRecommendationsOnlyOnDemand": true,
+    "explorer.openEditors.visible": 0,
+    "window.zoomLevel": 0,
+    "files.autoSave": "off",
+    "git.autofetch": true,
+    "explorer.confirmDragAndDrop": false,
+    "editor.wordWrapColumn": 150,
+    "editor.wordWrap": "bounded",
+    "editor.cursorBlinking": "solid",
+    "editor.minimap.enabled": false,
+    "git.enableSmartCommit": true
+}
